@@ -1,5 +1,5 @@
 name: on_hello_event1
-pack: hello_st2
+pack: test_pack
 description: Sample rule firing on hello_st2.event1.
 enabled: true
 trigger:
